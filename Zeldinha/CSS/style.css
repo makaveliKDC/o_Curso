@@ -1,0 +1,15 @@
+.topo img{
+	width: 100%;
+	height: 200px;
+}
+
+body{
+	background: url(../IMG/fundo.jpg);
+}
+
+.box{
+	width: 95%;
+	background: rgba(225, 255, 225);
+	border: solid 2px lightgreen;
+	box-shadow: inset 0 0 1em darkgreen;
+}
